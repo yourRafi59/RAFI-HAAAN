@@ -63,6 +63,7 @@
  <details close>
 <summary>𝘾𝙃𝘼𝙉𝙂𝙀 𝙇𝙊𝙂</summary>
 
+- *Fixed Download and AI*
 - ***SIGMA-MD v1.5.3 Releases, 6 March,2024***
 - *Fixed `All Ai` Commands*
 - *Fixed `Spotify` Command*
